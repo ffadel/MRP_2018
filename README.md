@@ -7,4 +7,5 @@ conda create -n python35 python=3.5 tensorflow ipython
 
 
 *Issue with missing conda environment in jupyter notebook<br>
-run conda install nb_conda
+run conda install nb_conda<br>
+run conda install ipykernel
