@@ -2,7 +2,7 @@
 Major Research Project (Grad) 
 
 
-<b>Create new Anaconda environment</b><br>
+<b>*Create new Anaconda environment</b><br>
 conda create -n python35 python=3.5 tensorflow ipython
 
 
