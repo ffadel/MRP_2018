@@ -11,6 +11,8 @@ run conda install nb_conda<br>
 run conda install ipykernel<br>
 run python -m ipykernel install --user --name python35 --display-name "Python35"
 
+conda install pytorch torchvision -c pytorch
+
 <br>conda install scikit-learn
 <br>conda install pandas
 <br><br>*install textblob
