@@ -12,3 +12,4 @@ run conda install ipykernel<br>
 run python -m ipykernel install --user --name python35 --display-name "Python35"
 
 <br>conda install scikit-learn
+<br>conda install pandas
