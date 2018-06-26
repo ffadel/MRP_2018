@@ -23,3 +23,4 @@ conda install pytorch torchvision -c pytorch
 <br>conda install -c conda-forge spacy
 <br>python -m spacy download en
 
+<br>conda install matplotlib
