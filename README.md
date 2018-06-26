@@ -10,3 +10,5 @@ conda create -n python35 python=3.5 tensorflow ipython
 run conda install nb_conda<br>
 run conda install ipykernel<br>
 run python -m ipykernel install --user --name python35 --display-name "Python35"
+
+<br>conda install scikit-learn
