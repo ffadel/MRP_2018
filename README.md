@@ -2,6 +2,9 @@
 Major Research Project (Grad) 
 
 
+<b>Create new Anaconda environment</b><br>
+conda create -n python35 python=3.5 tensorflow ipython
 
-#### Issue with missing conda environment in jupyter notebook
+
+Issue with missing conda environment in jupyter notebook
 run conda install nb_conda
