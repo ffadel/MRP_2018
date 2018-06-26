@@ -16,3 +16,8 @@ run python -m ipykernel install --user --name python35 --display-name "Python35"
 <br><br>*install textblob
 <br>conda install -c https://conda.anaconda.org/sloria textblob
 <br>python -m textblob.download_corpora
+
+<br>*Install Spacy
+<br>conda install -c conda-forge spacy
+<br>python -m spacy download en
+
