@@ -1,3 +1,6 @@
+Background about Word Mover Distance:
+http://vene.ro/blog/word-movers-distance-in-python.html
+
 # MRP_2018
 Major Research Project (Grad) 
 
