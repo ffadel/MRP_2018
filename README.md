@@ -1,6 +1,9 @@
 # MRP_2018
 Major Research Project (Grad) 
 
+DOC2VEC tutorial:
+http://linanqiu.github.io/2015/10/07/word2vec-sentiment/
+
 ### Prerequesite Installation
 <b>*Create new Anaconda environment</b><br>
 conda create -n python35 python=3.5 tensorflow ipython
